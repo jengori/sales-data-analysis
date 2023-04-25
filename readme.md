@@ -15,7 +15,8 @@ To write a Python program that reads in a csv file containing sales data, carry 
 
 ## Screenshots
 
-![](./project-screenshot.png)
 ![](./slides-screenshot.png)
+![](./project-screenshot.png)
+
 
 

@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # Sales Data Analysis with Pandas and Plotly
 
 ### To view the project with tables and graphs correctly rendered go to [nbviewer](https://nbviewer.org/) and paste in this url: github.com/jengori/sales-data-analysis/blob/main/sales-data-analysis.ipynb

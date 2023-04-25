@@ -1,8 +1,6 @@
-<base target="_blank">
-
 # Sales Data Analysis with Pandas and Plotly
 
-### To view the project with tables and graphs correctly rendered go to [nbviewer](https://nbviewer.org/) and paste in this url: github.com/jengori/sales-data-analysis/blob/main/sales-data-analysis.ipynb
+### To view the project with tables and graphs correctly rendered go to <a href="https://nbviewer.org/" target="_blank">nbviewer</a> and paste in this url: github.com/jengori/sales-data-analysis/blob/main/sales-data-analysis.ipynb
 
 This a a project completed for the **Intro To Python For Data** MOOC Challenge run by [Code First Girls](https://codefirstgirls.com) in April 2023.
 
